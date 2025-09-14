@@ -11,6 +11,8 @@ List of the Braille Display Projects I've worked on
     * `type-4`: Column rods.
 * [Braille-Display-DC-Motors-Vertical](https://github.com/KilowattSynthesis/Braille-Display-DC-Motors-Vertical): 4mm OD DC Motor under each dot
     * `type-5`: DC Motors Vertical, 2 layers of PCBs
+* [Braille-Display-Conveyor-Belt](https://github.com/KilowattSynthesis/Braille-Display-Conveyor-Belt): Uses a magnetic conveyor belt.
+    * `type-6`: Uses a magnetic conveyor belt.
 * [Braille-Display-SMA-Pistons](https://github.com/KilowattSynthesis/Braille-Display-SMA-Pistons): Empty.
 
 ## Releases
